@@ -1,0 +1,2 @@
+RapidFuzz==3.10.1
+sv-ttk==2.6.0
